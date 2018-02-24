@@ -29,7 +29,7 @@ ferris_bueller = media.Movie(
     'Ferris Bueller\'s Day Off',
     'A high school wise guy is determined to have a day off from school, despite what the Principal thinks of that.',
     'https://upload.wikimedia.org/wikipedia/en/9/9b/Ferris_Bueller%27s_Day_Off.jpg',
-    'https://www.youtube.com/watch?v=D6gABQFR94U',
+    'https://www.youtube.com/watch?v=R-P6p86px6U',
     'John Hughes',
     'June 11, 1986'
 )
@@ -47,7 +47,7 @@ willow = media.Movie(
     'Willow',
     'A reluctant dwarf must play a critical role in protecting a special baby from an evil queen.',
     'https://upload.wikimedia.org/wikipedia/en/7/7b/Willow_movie.jpg',
-    'https://www.youtube.com/watch?v=TZFtUwAs0wk',
+    'https://www.youtube.com/watch?v=JkSkdMw9qis',
     'Ron Howard',
     'May 20, 1988'
 )
@@ -56,7 +56,7 @@ neverending_story = media.Movie(
     'The Neverending Story',
     'A troubled boy dives into a wondrous fantasy world through the pages of a mysterious book.',
     'https://upload.wikimedia.org/wikipedia/en/9/9b/Neverendingstoryposter.jpg',
-    'https://www.youtube.com/watch?v=UeFni9dOv7c',
+    'https://www.youtube.com/watch?v=jRM0yLxMis4',
     'Wolfgang Petersen',
     '20 July 1984'
 )
